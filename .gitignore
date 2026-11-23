@@ -1,0 +1,5 @@
+.env
+*.xlsb
+*.xlsx
+log_automacao.txt
+__pycache__/
