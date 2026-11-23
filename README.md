@@ -55,3 +55,5 @@ O arquivo `.env` está no `.gitignore` e nunca deve ser enviado ao repositório.
 ## Autor
 
 Enzo Guedes Moura · [GitHub](https://github.com/Kfhw460) · enzoguedes460@gmail.com
+
+## Inteligência Artificial para uso de aprendizagem e correção.
