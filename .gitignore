@@ -2,8 +2,5 @@
 *.xlsb
 *.xlsx
 log_automacao.txt
-<<<<<<< HEAD
 __pycache__/
-=======
-__pycache__/
->>>>>>> 5ecd004226a0d9298641d10ff84185b3b94e5299
+ANALISE_CODIGO.md
